@@ -1,0 +1,11 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+genero = input("Qual o seu genero: ")
+time = input("Qual o seu time: ")
+carro = input("Modelo do seu carro: ")
+
+print(f"Olá, {nome}, seja muito bem vindo meu nobre!")
+print(f"Você tem {idade} anos.")
+print(f"Você é do gênero {genero}.")
+print(f"Torcedor do {time}.")
+print(f"Dirige um(a) {carro}.")
